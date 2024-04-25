@@ -138,4 +138,6 @@ To run the Node console, open up your terminal and type `node`. Type `.exit` to 
 
 This section contains helpful links to related content. It isn’t required, so consider it supplemental.
 
+- [npm Cheat Sheet]([https://www.martinfowler.com/bliki/CodeAsDocumentation.html](https://www.freecodecamp.org/news/npm-cheat-sheet-most-common-commands-and-nvm/))
+
 - It looks like this lesson doesn't have any additional resources yet. Help us expand this section by contributing to our curriculum.
